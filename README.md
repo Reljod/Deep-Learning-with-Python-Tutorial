@@ -1,7 +1,8 @@
 # Deep-Learning-with-Python-Tutorial
 
 The Notebook code comes from the **Deep Learning with Python Tutorial** book.
-
+---
+<br>
 <p align="center"><b>Example of Overfitting</b></p>
 
 ![Training and Evaluation Loss](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/images/loss.png)
