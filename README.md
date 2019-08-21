@@ -16,6 +16,8 @@ The Notebook code comes from the **Deep Learning with Python Tutorial** book.
  * 4. [Introduction to Neural Network: Boston Housing dataset (Regression) with Keras](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/DeepLearningWithPython_Chapter_3_6(Boston_Housing).ipynb)
  * 5. [Dealing with Overfitting by Tuning Layer sizes: MNIST dataset (multilabel classficiation) with Keras](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/DeepLearningWithPython_MNIST.ipynb)
  * 6. [Dealing with Overfitting by Regularizers: MNIST dataset (multilabel classficiation) with Keras](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/DeepLearningWithPython_Regularization.ipynb)
+ * 7. [Dealing with Overfitting by Dropout: Boston Housing dataset (Regression) with Keras](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/DeepLearningWithPython_Dropout.ipynb)
+ * 8. [Introduction to Convolutional Neural Networks: Cat vs Dogs dataset (binary classification) with Keras](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/DeepLearningWithPython_ConvNet_Cat_vs_Dog.ipynb)
  
  # Author
   * [Reljod T. Oreta](https://github.com/Reljod)
