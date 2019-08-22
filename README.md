@@ -25,12 +25,15 @@ The Notebook code comes from the **Deep Learning with Python Tutorial** book.
  <p align="center">
    <b>VGG16 model Visualization</b> of Filters Activations
    <br>
-   <img width="460" height="300" src="https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/images/block3_conv3.png">
+   <img src="https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/images/block3_conv3.png">
+   <br>
  </p>
  
  <p align="center">
   <b>Final Convolution Layer</b>
-  <img width="460" height="300" src="https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/images/block5_pool.png">
+  <br>
+  <img src="https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/images/block5_pool.png">
+  <br>
  </p>
  
  # Author
