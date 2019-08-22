@@ -18,6 +18,17 @@ The Notebook code comes from the **Deep Learning with Python Tutorial** book.
  * 6. [Dealing with Overfitting by Regularizers: MNIST dataset (multilabel classficiation) with Keras](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/DeepLearningWithPython_Regularization.ipynb)
  * 7. [Dealing with Overfitting by Dropout: Boston Housing dataset (Regression) with Keras](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/DeepLearningWithPython_Dropout.ipynb)
  * 8. [Introduction to Convolutional Neural Networks: Cat vs Dogs dataset (binary classification) with Keras](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/DeepLearningWithPython_ConvNet_Cat_vs_Dog.ipynb)
+ * 9. [Visualizing Convolutional Neural Networks: Cat vs Dogs dataset using VGG16 Model with Keras](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/DeepLearningWithPython_Visualizing_ConvNet.ipynb)
+ 
+ ---
+ <br>
+ <p align="center"><b>VGG16 model Visualization</b> of Filters Activations</p>
+ 
+ ![block_3_conv_3](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/images/block3_conv3.png)
+ 
+ <p align="center"><b>Final Convolution Layer</b>/p>
+ 
+  ![Final conv layer](https://github.com/Reljod/Deep-Learning-with-Python-Tutorial/blob/master/images/block5_pool.png)
  
  # Author
   * [Reljod T. Oreta](https://github.com/Reljod)
